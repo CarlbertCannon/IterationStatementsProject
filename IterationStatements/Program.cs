@@ -22,9 +22,9 @@ namespace IterationStatements
             }
             Console.WriteLine("Increase:");
 
-            foreach(var collective in numbers)
+            foreach(var collection in numbers)
             {
-            Console.WriteLine("");
+                Console.WriteLine(collection);
             Console.WriteLine("Decrease:");
             }
 
